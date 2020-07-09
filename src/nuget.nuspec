@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>IvySola.ReSharper.Plugins</id>
+		<version>1.0.5</version>
+		<authors>Yuuki Wesp</authors>
+		<owners>Yuuki Wesp</owners>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>empty</description>
+		<dependencies>
+			<dependency id="Wave" version="201.0" />
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="bin\Release\net461\IvySola.ReSharper.Plugins.ExtractInterfaceUnderFile.dll" target="dotFiles\" />
+		<file src="bin\Release\net461\IvySola.ReSharper.Plugins.ExtractInterfaceUnderFile.pdb" target="dotFiles\" />
+	</files>
+</package>
